@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - nextlevel
+  - diams
+  - last
+  - lasttag
+  - enemy
+  - cherry
+  - goMainMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - background
+  - Water
+  - UI
+  - foreground
+  - dielayer
+  - hahaha
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bakcground
+    uniqueID: 2174520621
+    locked: 0
+  - name: cloud
+    uniqueID: 2556500937
+    locked: 0
+  - name: props
+    uniqueID: 1570851275
+    locked: 0
+  - name: cavern
+    uniqueID: 4272610943
+    locked: 0
+  - name: New Layer foreground
+    uniqueID: 1119737913
+    locked: 0
+  - name: UI
+    uniqueID: 1709703893
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 3992658547
+    locked: 0
